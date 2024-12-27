@@ -1,6 +1,4 @@
 __pycache__/
-*.pyo
-*.pyd
 *.so
 *.swp
 *.swo
