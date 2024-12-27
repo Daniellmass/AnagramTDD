@@ -33,7 +33,7 @@ def count_anagrams(text, word):
                 anagram_count += 1
 
             # Exit early if an impossible case is detected (e.g., no remaining matches)
-            if anagram_count > 30:  
+            if anagram_count > 21:  
                 break
 
     return anagram_count
